@@ -9,3 +9,4 @@ Tareas de mineria de datos 1661818
 * [Ejercicios de programacion de Python herramientas de mineria de datos](https://github.com/Zoulrix/Mineria-de-Datos-Tareas/blob/master/Ejercicios%20de%20programacion%20de%20Python%20herramientas%20de%20mineria%20de%20datos.ipynb)
 ## Tercera Parte
 * [Segundo Avance Proyecto](https://github.com/Zoulrix/Mineria-de-Datos-Tareas/blob/master/Segundo%20Avance%20Proyecto.ipynb)
+* [Poster](https://github.com/Zoulrix/Mineria-de-Datos-Tareas/blob/master/Poster.pdf)
