@@ -10,3 +10,4 @@ Tareas de mineria de datos 1661818
 ## Tercera Parte
 * [Segundo Avance Proyecto](https://github.com/Zoulrix/Mineria-de-Datos-Tareas/blob/master/Segundo%20Avance%20Proyecto.ipynb)
 * [Poster](https://github.com/Zoulrix/Mineria-de-Datos-Tareas/blob/master/Poster.pdf)
+* [Extraordinario](https://github.com/Zoulrix/Mineria-de-Datos-Tareas/blob/master/Extraordinario_Martinez_Rangel_Erick_Ulrich_012.ipynb)
